@@ -41,8 +41,10 @@
 
 📕 Мои проекты:
 
-* [Проект интернет-магазина на Django](https://github.com/Ser-Kov/UrbanProject)
-* [Анализатор прайс-листов](https://github.com/Ser-Kov/Exam_Work_UrbanUniversity)
+* [Проект интернет-магазина на Django](https://github.com/Ser-Kov/UrbanProject)<br>
+  Стек: python, Django, djangorestframework, MySQL, ORM, CSS, HTML
+* [Анализатор прайс-листов](https://github.com/Ser-Kov/Exam_Work_UrbanUniversity)<br>
+  Стек: python, pandas, HTML
 
 ###
 
